@@ -6,6 +6,8 @@ AI Engineering과 Data Engineering에 흥미를 갖고 공부를 이어가고 �
 기업과 고객의 관점을 이해하고, 이를 토대로 AI 기술을 통해 문제를 해결하고 서비스를 만들어 낼 수 있는 개발자가 되고 싶습니다.
 최종적으로는 이러한 경험을 토대로 문제 정의부터 Product Serving까지 모든 파이프라인을 아우를 수 있는 Problem Solver로 성장하고 싶습니다.
 
+[자기소개 더 보기](https://www.notion.so/62660361b3144cc0b85a772d8a2cc3fa)
+
 - 인하대학교 경영대학 경영학과 & 공과대학 소프트웨어융합공학 학사
 - Naver Connect Boostcamp AI Tech 2nd. 
 
