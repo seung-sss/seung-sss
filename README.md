@@ -68,7 +68,7 @@ AI Engineering과 Data Engineering에 흥미를 갖고 공부를 이어가고 �
 	- EDA를 통한 데이터 전처리를 진행하였습니다.
 	- Object Detection 모델(YOLOv5-m, Faster R-CNN, Cascade R-CNN)을 연구하였습니다.
 
-### [마스크 착용 상태 분류: Image Classification](https://github.com/seung-sss/image-classification-level1-24)
+### [마스크 착용 상태 분류: Image Classification](https://github.com/seung-sss/image-classification-level1)
 - 개요
 	- 촬영된 사람 얼굴 사진에서 마스크 착용 상태 및 성별, 연령대를 분류하는 AI 모델을 개발하는 프로젝트 입니다.
 - 역할
