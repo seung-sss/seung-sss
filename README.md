@@ -55,8 +55,7 @@ AI Engineering과 Data Engineering에 흥미를 갖고 공부를 이어가고 �
 - 개요
 	- 촬영된 쓰레기 사진에서 픽셀 단위로 재활용 품목을 분류하는 Semantic Segmentation AI 모델을 개발하는 프로젝트 입니다.
 - 역할
-	- Pytorch 기반의 베이스라인을 설계 및 구축하였습니다.
-	- EDA를 통한 데이터 전처리를 진행하였습니다.
+	- Pytorch 기반의 베이스라인 설계 및 효율적인 실험 환경을 구축하였습니다.
 	- Semantic Segmentation 모델(FCN, UNet++, DeepLabV3, DeepLabV3+)을 연구하였습니다.
 	- TTA & Ensemble(Soft Voting) 코드를 구현하였습니다.
 
@@ -72,7 +71,7 @@ AI Engineering과 Data Engineering에 흥미를 갖고 공부를 이어가고 �
 - 개요
 	- 촬영된 사람 얼굴 사진에서 마스크 착용 상태 및 성별, 연령대를 분류하는 AI 모델을 개발하는 프로젝트 입니다.
 - 역할
-	- Darknet53 모델을 직접 구현해 보았습니다.
+	- Darknet53, ResNet 모델을 직접 구현해 보았습니다.
 	- EDA를 통한 데이터 전처리를 진행하였습니다.
 	- Image Clssification 모델(ResNet18, EfficientNet-b7)을 연구하였습니다.
 	- 모델 성능 향상을 위한 Cutmix를 코드로 구현하였습니다.
